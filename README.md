@@ -1,10 +1,6 @@
 # AIStockWise - Modern UI/UX website using React.js & Tailwind CSS
 
-![AIStockWise](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+![image](https://github.com/yinfangrtz/AIStockWise-React/assets/106718273/16ae9e33-cbb7-4798-9464-129395a5eb26)
 
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
